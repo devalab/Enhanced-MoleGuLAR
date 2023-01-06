@@ -82,7 +82,7 @@ def update_std_threshold(gpr, X_test):
     print("Current std threshold: ", bins[2])
     return bins[2]
 args = parser.parse_args()
-with open("../Analaysis/gpr_pretrained.pkl", 'rb') as f:
+with open("../Analysis/gpr_pretrained.pkl", 'rb') as f:
     gpr = pickle.load(f)
 with open("../Analysis/molecules/labelled.pkl", 'rb') as f:
     df_cur_train = pickle.load(f)
