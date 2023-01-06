@@ -3,8 +3,7 @@ The discovery of potential therapeutic agents for life threatening diseases has 
 
 ![Pipeline](Images/enhanced_pipeline.png "Pipeline")
 
-This repository contains the code for optimization of the generator model using predictor machine learning models and docking calculations as well as other properties.
-
+This repository contains the code for optimization of the generator model using predictor machine learning models and docking calculations.
 Installation
 ------------
 [Install miniconda](https://docs.conda.io/en/latest/miniconda.html) and run the following command.
@@ -14,7 +13,7 @@ Installation
 Running Experiments
 --------------
 To run the experiments that use AutoDock, AutoDock-GPU will have to be installed from [here](https://github.com/ccsb-scripps/AutoDock-GPU).
-Mol2Vec must also be installed. The instructions for installation can be found [here](https://github.com/samoturk/mol2vec).
+Mol2Vec must also be installed. The instructions for installation can be found [here](https://github.com/samoturk/mol2vec). The `gpr_pretrained.pkl` for the pipeline can be downloaded [here](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/karthik_viswanathan_research_iiit_ac_in/EZj4SkuSsc9Fqj41zUC84AYBbhXyhtGrPtW_dsvSNDDJQg?e=l4w9KA) and the `gpr_al_inducted.pkl` can be downloaded [here](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/karthik_viswanathan_research_iiit_ac_in/EQ4LkwsbvZxKjC6V0aVuh60BagYHgoyPFaEJYwS0MJnf6A?e=2a42dr)
 
 After installing AutoDock-GPU, Open the `Optimizer` directory.
 
