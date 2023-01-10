@@ -1,0 +1,784 @@
+Current std threshold:  0.6484174286050142
+Did Not Complete because of could not convert string to float: 
+Did Not Complete because of could not convert string to float: 
+Iter:  0
+BA: -8.006067403595367
+LogP 3.279131515151517
+Hydration -8.456784212228024
+TPSA 72.2228787878788
+QED 0.5946461353712348
+hits : miss ratio -  160  :  20
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  276  :  40
+Iter:  1
+BA: -7.894691317660722
+LogP 2.955261857142859
+Hydration -8.621940892083304
+TPSA 79.45771428571429
+QED 0.585329198323944
+hits : miss ratio -  423  :  60
+Iter:  2
+BA: -8.237644071583553
+LogP 3.4964042424242447
+Hydration -8.119085268540816
+TPSA 77.32409090909093
+QED 0.5711467952827339
+hits : miss ratio -  519  :  80
+Iter:  3
+BA: -8.051656143868788
+LogP 3.2203177142857164
+Hydration -8.545784759521485
+TPSA 81.09199999999998
+QED 0.5621766079894227
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  625  :  100
+Iter:  4
+BA: -8.391328117410493
+LogP 3.837878928571431
+Hydration -8.195120530469078
+TPSA 78.3382142857143
+QED 0.5211871609757767
+hits : miss ratio -  732  :  120
+Did Not Complete because of could not convert string to float: 
+Iter:  5
+BA: -7.910355997701723
+LogP 3.105399230769232
+Hydration -8.60380501472033
+TPSA 85.44884615384613
+QED 0.5573577639273151
+hits : miss ratio -  848  :  140
+hits : miss ratio -  959  :  160
+Iter:  6
+BA: -8.605424864007697
+LogP 3.8801380952380975
+Hydration -8.296692185931736
+TPSA 75.83269841269845
+QED 0.5510772370573152
+hits : miss ratio -  1064  :  180
+Iter:  7
+BA: -8.656353976952213
+LogP 3.6917743283582114
+Hydration -8.685884607372
+TPSA 84.89417910447763
+QED 0.509887963641286
+hits : miss ratio -  1159  :  200
+Iter:  8
+BA: -8.381243079044893
+LogP 3.7600558730158755
+Hydration -8.428813105537778
+TPSA 82.94031746031747
+QED 0.5380720500278627
+hits : miss ratio -  1262  :  220
+Did Not Complete because of could not convert string to float: 
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  1361  :  240
+Iter:  9
+BA: -8.439880644397553
+LogP 3.780061250000003
+Hydration -8.428317483514547
+TPSA 87.36546874999999
+QED 0.4880832833894108
+hits : miss ratio -  1445  :  260
+Iter:  10
+BA: -8.513234084651756
+LogP 3.315602950819674
+Hydration -8.70450358312638
+TPSA 89.27786885245901
+QED 0.5019232655109142
+hits : miss ratio -  1513  :  280
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  1603  :  300
+Iter:  11
+BA: -8.527098564820255
+LogP 3.4884598461538485
+Hydration -8.724413559986996
+TPSA 86.80092307692308
+QED 0.5383674933589238
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  1702  :  320
+Iter:  12
+BA: -8.620804480762313
+LogP 4.067395666666669
+Hydration -8.050363512833913
+TPSA 74.00333333333333
+QED 0.5310449438308577
+hits : miss ratio -  1763  :  340
+hits : miss ratio -  1828  :  360
+Iter:  13
+BA: -9.108783906611697
+LogP 4.164072542372884
+Hydration -8.402341179928538
+TPSA 81.53661016949152
+QED 0.4973097649063289
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  1923  :  380
+Did Not Complete because of could not convert string to float: 
+Iter:  14
+BA: -8.737049945967135
+LogP 4.073047971014495
+Hydration -8.431844600732775
+TPSA 81.54231884057968
+QED 0.5140022314939434
+hits : miss ratio -  2011  :  400
+hits : miss ratio -  2084  :  420
+Did Not Complete because of Explicit valence for atom # 52 O, 3, is greater than permitted
+Iter:  15
+BA: -8.895079104834977
+LogP 4.181463174603176
+Hydration -8.516653832935152
+TPSA 98.28968253968256
+QED 0.44867035512323755
+hits : miss ratio -  2153  :  440
+hits : miss ratio -  2231  :  460
+Iter:  16
+BA: -8.62024189289981
+LogP 3.753572280701757
+Hydration -8.191515002334327
+TPSA 76.7378947368421
+QED 0.5320546618752536
+hits : miss ratio -  2311  :  480
+Iter:  17
+BA: -8.98909473013095
+LogP 4.192275645161293
+Hydration -8.382659396817607
+TPSA 85.79935483870966
+QED 0.4840532158726071
+hits : miss ratio -  2386  :  500
+hits : miss ratio -  2435  :  520
+Iter:  18
+BA: -8.87754761428398
+LogP 4.194910416666669
+Hydration -8.202154186036852
+TPSA 81.7975
+QED 0.4833765302423344
+hits : miss ratio -  2523  :  540
+Did Not Complete because of could not convert string to float: 
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  2579  :  560
+Iter:  19
+BA: -8.713395690195046
+LogP 4.197931833333336
+Hydration -8.52460823059082
+TPSA 90.8935
+QED 0.43690198877977443
+hits : miss ratio -  2615  :  580
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  2676  :  600
+Iter:  20
+BA: -8.747098644474047
+LogP 4.224056515151519
+Hydration -8.795339851668388
+TPSA 90.00136363636362
+QED 0.4750750149006754
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  2733  :  620
+hits : miss ratio -  2791  :  640
+Iter:  21
+BA: -8.923148199506564
+LogP 4.153190322580648
+Hydration -8.383977463168483
+TPSA 92.64548387096777
+QED 0.44983106040700765
+hits : miss ratio -  2842  :  660
+hits : miss ratio -  2886  :  680
+Did Not Complete because of could not convert string to float: 
+Iter:  22
+BA: -9.177294136570715
+LogP 4.574222222222224
+Hydration -8.668247593773735
+TPSA 98.17277777777781
+QED 0.3977138950794107
+hits : miss ratio -  2937  :  700
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  2981  :  720
+Iter:  23
+BA: -9.018053311998155
+LogP 4.601081730769234
+Hydration -8.05347599891516
+TPSA 84.43423076923075
+QED 0.44582617142640407
+hits : miss ratio -  3025  :  740
+MAE:  0.432410372225578
+MSE:  0.3413493374964162
+R2:  0.8671488601428623
+-------Below -9 kcal/mol--------
+MAE:  0.5292490876743076
+MSE:  0.4957266548343616
+R2:  0.3363181910787775
+Current std threshold:  0.6059973938029837
+Iter:  24
+BA: -9.460806368808054
+LogP 4.457672352941179
+Hydration -8.808869375902063
+TPSA 101.69779411764706
+QED 0.38929022984828227
+hits : miss ratio -  3153  :  760
+Did Not Complete because of could not convert string to float: 
+Did Not Complete because of could not convert string to float: 
+Iter:  25
+BA: -9.187002461660411
+LogP 4.531698448275866
+Hydration -8.408889137465378
+TPSA 96.97396551724135
+QED 0.4038808274760331
+hits : miss ratio -  3398  :  780
+Iter:  26
+BA: -9.356739569518815
+LogP 4.335159846153849
+Hydration -8.24300687129681
+TPSA 92.00999999999999
+QED 0.45123023991740685
+hits : miss ratio -  3527  :  800
+Iter:  27
+BA: -9.92232441350999
+LogP 4.940178620689658
+Hydration -8.43928361144559
+TPSA 93.72672413793103
+QED 0.37737272640499475
+Did Not Complete because of could not convert string to float: 
+Iter:  28
+BA: -9.73375578593636
+LogP 4.577883538461542
+Hydration -8.307949139521671
+TPSA 101.21276923076923
+QED 0.38813125954996813
+hits : miss ratio -  3727  :  820
+Did Not Complete because of could not convert string to float: 
+Iter:  29
+BA: -9.746642038259143
+LogP 5.060544923076926
+Hydration -8.568693175682654
+TPSA 95.43384615384616
+QED 0.40035221469921217
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  3905  :  840
+Iter:  30
+BA: -9.801099260603504
+LogP 5.364322950819676
+Hydration -8.2776644464399
+TPSA 88.69295081967212
+QED 0.36476507081521564
+hits : miss ratio -  4048  :  860
+Iter:  31
+BA: -9.640992987539812
+LogP 4.60273771929825
+Hydration -8.534488012916164
+TPSA 89.87368421052632
+QED 0.4050833437394874
+Iter:  32
+BA: -9.855115950010505
+LogP 4.8306026415094365
+Hydration -8.942143746142117
+TPSA 97.89981132075472
+QED 0.38757610863958647
+hits : miss ratio -  4289  :  880
+Did Not Complete because of could not convert string to float: 
+Iter:  33
+BA: -9.699423524798851
+LogP 5.005284769230773
+Hydration -8.550063408338106
+TPSA 92.16384615384615
+QED 0.38314030064336324
+hits : miss ratio -  4446  :  900
+Did Not Complete because of could not convert string to float: 
+Iter:  34
+BA: -9.621362565932522
+LogP 4.840206250000003
+Hydration -8.689913876354694
+TPSA 95.72453125
+QED 0.3852629555921411
+Iter:  35
+BA: -9.693924286096193
+LogP 4.989599649122811
+Hydration -8.784521952010037
+TPSA 90.42947368421054
+QED 0.37269894764978667
+hits : miss ratio -  4651  :  920
+Iter:  36
+BA: -10.170116500179395
+LogP 5.578982678571433
+Hydration -8.483396581241063
+TPSA 91.14803571428571
+QED 0.3298010674098015
+hits : miss ratio -  4766  :  940
+hits : miss ratio -  4833  :  960
+Iter:  37
+BA: -9.740233820496154
+LogP 4.8929475862069
+Hydration -8.091023989792529
+TPSA 90.80586206896552
+QED 0.38754318687437866
+hits : miss ratio -  4938  :  980
+Iter:  38
+BA: -9.808526749250266
+LogP 4.925104423076926
+Hydration -8.829770904320936
+TPSA 103.51634615384616
+QED 0.37303856224030923
+hits : miss ratio -  5046  :  1000
+Iter:  39
+BA: -10.23674529854321
+LogP 5.686801016949156
+Hydration -8.496820243738465
+TPSA 104.73135593220339
+QED 0.29146063841253356
+hits : miss ratio -  5113  :  1020
+Iter:  40
+BA: -9.78784474663128
+LogP 5.030882711864411
+Hydration -8.596344576043597
+TPSA 93.84694915254238
+QED 0.3474873777959518
+hits : miss ratio -  5254  :  1040
+Did Not Complete because of could not convert string to float: 
+Did Not Complete because of could not convert string to float: 
+Iter:  41
+BA: -9.552096494750021
+LogP 4.924098070175442
+Hydration -8.899558025493956
+TPSA 101.74543859649123
+QED 0.374314269243849
+hits : miss ratio -  5442  :  1060
+Iter:  42
+BA: -10.360589095022057
+LogP 5.585448833333337
+Hydration -8.702773638566335
+TPSA 97.84916666666666
+QED 0.3035652644544355
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  5567  :  1080
+Did Not Complete because of could not convert string to float: 
+Iter:  43
+BA: -9.846645922890206
+LogP 5.561733396226419
+Hydration -8.405113152737888
+TPSA 106.90415094339623
+QED 0.25664440487832907
+hits : miss ratio -  5679  :  1100
+Iter:  44
+BA: -10.16372783927193
+LogP 5.781481639344266
+Hydration -8.297054118797428
+TPSA 97.64770491803279
+QED 0.3143058083213814
+Did Not Complete because of Explicit valence for atom # 44 N, 4, is greater than permitted
+hits : miss ratio -  5764  :  1120
+Iter:  45
+BA: -10.142878595858473
+LogP 6.145037868852463
+Hydration -8.453824168345967
+TPSA 100.8667213114754
+QED 0.2643620763441263
+hits : miss ratio -  5816  :  1140
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  5903  :  1160
+Iter:  46
+BA: -10.620833317777697
+LogP 6.077193518518522
+Hydration -8.177450643645393
+TPSA 102.97500000000001
+QED 0.3026679683206124
+Did Not Complete because of Explicit valence for atom # 20 O, 3, is greater than permitted
+hits : miss ratio -  5994  :  1180
+Iter:  47
+BA: -10.351143528051256
+LogP 5.714021730769233
+Hydration -8.694936440541195
+TPSA 109.7355769230769
+QED 0.29474373023130046
+hits : miss ratio -  6065  :  1200
+Iter:  48
+BA: -10.883671257892223
+LogP 6.411693265306126
+Hydration -8.471881671827667
+TPSA 104.27938775510204
+QED 0.22613398185076455
+hits : miss ratio -  6113  :  1220
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  6174  :  1240
+Iter:  49
+BA: -10.566764371991011
+LogP 6.247176200000002
+Hydration -8.35950608253479
+TPSA 106.4982
+QED 0.24180094511073463
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  6223  :  1260
+Iter:  50
+BA: -10.626784186345999
+LogP 6.239150750000003
+Hydration -8.644324922561646
+TPSA 101.1405
+QED 0.2670097757622442
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  6302  :  1280
+hits : miss ratio -  6367  :  1300
+Iter:  51
+BA: -10.95485970283412
+LogP 6.2886995744680885
+Hydration -8.734493909998143
+TPSA 109.08021276595744
+QED 0.22344259222525586
+hits : miss ratio -  6417  :  1320
+hits : miss ratio -  6471  :  1340
+Iter:  52
+BA: -10.692338768002525
+LogP 7.4998932258064555
+Hydration -8.005425326285824
+TPSA 92.30564516129033
+QED 0.2025421185218921
+hits : miss ratio -  6529  :  1360
+Did Not Complete because of could not convert string to float: 
+Iter:  53
+BA: -10.163899142292806
+LogP 6.183327692307697
+Hydration -8.22512348321768
+TPSA 99.68169230769232
+QED 0.2668350024220113
+hits : miss ratio -  6605  :  1380
+hits : miss ratio -  6642  :  1400
+Did Not Complete because of could not convert string to float: 
+Iter:  54
+BA: -10.268622927857542
+LogP 6.326823061224491
+Hydration -8.527345822781932
+TPSA 98.70367346938775
+QED 0.2717431154635417
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  6709  :  1420
+Iter:  55
+BA: -5.527709690890685
+LogP 6.256675000000004
+Hydration -8.905544032653173
+TPSA 111.39583333333333
+QED 0.24981954851164415
+hits : miss ratio -  6773  :  1440
+hits : miss ratio -  6832  :  1460
+Iter:  56
+BA: -10.608760405628454
+LogP 6.391325333333337
+Hydration -8.347255953152974
+TPSA 97.40399999999998
+QED 0.27170914974557636
+hits : miss ratio -  6916  :  1480
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  6962  :  1500
+MAE:  0.4570116089319676
+MSE:  0.3939507269216699
+R2:  0.8751218597093114
+-------Below -9 kcal/mol--------
+MAE:  0.5966607391863915
+MSE:  0.6277289272515119
+R2:  0.5478398114008008
+Current std threshold:  0.6889276687284941
+Iter:  57
+BA: -10.208871592286126
+LogP 6.27522963636364
+Hydration -8.567614287463101
+TPSA 109.30472727272728
+QED 0.25533029941687135
+Iter:  58
+BA: -10.905934014471658
+LogP 7.034000952380954
+Hydration -8.681816958245777
+TPSA 100.85714285714286
+QED 0.2338967119452803
+hits : miss ratio -  7196  :  1520
+Iter:  59
+BA: -11.045470981995612
+LogP 6.900988035714291
+Hydration -8.359504767826625
+TPSA 107.06642857142857
+QED 0.22030094592240018
+Iter:  60
+BA: -10.999574498814656
+LogP 6.658544680851068
+Hydration -8.55096869773053
+TPSA 104.5968085106383
+QED 0.22671352705511483
+Iter:  61
+BA: -11.00750934516068
+LogP 6.983468600000004
+Hydration -8.542776160240173
+TPSA 107.31620000000001
+QED 0.21918076358463762
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  7484  :  1540
+Iter:  62
+BA: -10.899771982958923
+LogP 6.756003272727275
+Hydration -8.391510048779574
+TPSA 99.0961818181818
+QED 0.24105853236421962
+Did Not Complete because of could not convert string to float: 
+Iter:  63
+BA: -10.644178925027733
+LogP 7.01747461538462
+Hydration -8.32044063623135
+TPSA 105.11923076923073
+QED 0.21334840978065944
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  7710  :  1560
+Iter:  64
+BA: -11.054119540973069
+LogP 7.691565789473684
+Hydration -8.255133189653096
+TPSA 103.21859649122807
+QED 0.20121874478426965
+Iter:  65
+BA: -11.37122282670839
+LogP 7.877888809523811
+Hydration -8.915858995346795
+TPSA 103.83261904761905
+QED 0.1617508653537681
+hits : miss ratio -  7932  :  1580
+Iter:  66
+BA: -11.24209855798607
+LogP 7.780368750000002
+Hydration -8.1460613489151
+TPSA 104.22178571428572
+QED 0.15950215717608848
+hits : miss ratio -  8067  :  1600
+Iter:  67
+BA: -10.569865784853803
+LogP 6.696953333333337
+Hydration -8.537046194076538
+TPSA 106.78999999999999
+QED 0.21608710187634295
+Iter:  68
+BA: -11.105719719019351
+LogP 7.601458666666666
+Hydration -8.447311793433295
+TPSA 106.18199999999999
+QED 0.18284447158404202
+hits : miss ratio -  8254  :  1620
+Iter:  69
+BA: -11.00501169868213
+LogP 7.5074547058823535
+Hydration -8.287029182209688
+TPSA 100.5070588235294
+QED 0.21375915511670235
+hits : miss ratio -  8397  :  1640
+Iter:  70
+BA: -11.244439341538232
+LogP 7.572837272727274
+Hydration -8.480083725669168
+TPSA 106.58381818181816
+QED 0.19085035860459276
+hits : miss ratio -  8511  :  1660
+Iter:  71
+BA: -11.024317866400345
+LogP 7.751546379310346
+Hydration -8.169239706006543
+TPSA 111.55431034482757
+QED 0.1799410975023011
+Did Not Complete because of could not convert string to float: 
+Iter:  72
+BA: -10.864352922647925
+LogP 7.460768214285716
+Hydration -8.451460301876068
+TPSA 104.56089285714286
+QED 0.20050233366392906
+hits : miss ratio -  8678  :  1680
+Iter:  73
+BA: -11.083876616015024
+LogP 7.59102741935484
+Hydration -8.33289506358485
+TPSA 105.19306451612906
+QED 0.20363140679509004
+hits : miss ratio -  8860  :  1700
+Iter:  74
+BA: -11.11241820399382
+LogP 8.321172075471699
+Hydration -8.163289092621714
+TPSA 105.86075471698112
+QED 0.1677680190241214
+Did Not Complete because of could not convert string to float: 
+Iter:  75
+BA: -11.072284111376987
+LogP 8.38336537037037
+Hydration -7.809915939966838
+TPSA 102.185
+QED 0.16729522109082193
+hits : miss ratio -  9017  :  1720
+Iter:  76
+BA: -11.262643008888134
+LogP 7.97502734375
+Hydration -8.509189754724503
+TPSA 104.114375
+QED 0.18888948095777164
+hits : miss ratio -  9170  :  1740
+Did Not Complete because of could not convert string to float: 
+Iter:  77
+BA: -11.07060096955023
+LogP 8.698605454545453
+Hydration -7.824435624209317
+TPSA 99.43072727272727
+QED 0.17427125103700228
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  9298  :  1760
+Iter:  78
+BA: -11.384977079731483
+LogP 8.320374545454543
+Hydration -8.234249779672334
+TPSA 98.67242424242423
+QED 0.1775268907807406
+Did Not Complete because of could not convert string to float: 
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  9459  :  1780
+Iter:  79
+BA: -10.81018334082771
+LogP 7.771442923076924
+Hydration -8.482335318785447
+TPSA 112.02123076923077
+QED 0.15171131677335187
+Did Not Complete because of could not convert string to float: 
+Iter:  80
+BA: -11.230172724668247
+LogP 8.398718644067795
+Hydration -7.883149502641063
+TPSA 96.00067796610169
+QED 0.17133394628862553
+hits : miss ratio -  9640  :  1800
+Did Not Complete because of could not convert string to float: 
+Did Not Complete because of could not convert string to float: 
+Iter:  81
+BA: -11.004139370493066
+LogP 8.667655344827587
+Hydration -8.003407042602014
+TPSA 99.74586206896552
+QED 0.17092289330851895
+hits : miss ratio -  9758  :  1820
+Iter:  82
+BA: -11.70354559520517
+LogP 10.024136071428567
+Hydration -7.6053685290472846
+TPSA 88.04017857142857
+QED 0.13657549852287287
+Did Not Complete because of could not convert string to float: 
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  9880  :  1840
+Iter:  83
+BA: -11.474191956782885
+LogP 8.955880357142854
+Hydration -7.993967056274414
+TPSA 99.0930357142857
+QED 0.15646328497617784
+hits : miss ratio -  10033  :  1860
+Iter:  84
+BA: -11.28883017299112
+LogP 8.398722545454545
+Hydration -8.032712320847946
+TPSA 88.29636363636364
+QED 0.19301256432456604
+Iter:  85
+BA: -11.474598437530641
+LogP 8.80192142857143
+Hydration -8.396919054644448
+TPSA 92.91553571428572
+QED 0.16210637727653068
+hits : miss ratio -  10256  :  1880
+Iter:  86
+BA: -11.321355887846606
+LogP 8.285597575757578
+Hydration -7.919065966750637
+TPSA 93.90803030303032
+QED 0.17407393204983962
+hits : miss ratio -  10402  :  1900
+Did Not Complete because of could not convert string to float: 
+Did Not Complete because of could not convert string to float: 
+Iter:  87
+BA: -10.979949644288112
+LogP 8.91390618181818
+Hydration -7.9074245236136695
+TPSA 102.3947272727273
+QED 0.14635511373424
+Did Not Complete because of could not convert string to float: 
+Did Not Complete because of Explicit valence for atom # 40 O, 3, is greater than permitted
+Iter:  88
+BA: -11.1291985161399
+LogP 8.941684285714283
+Hydration -7.517106519426618
+TPSA 89.07457142857142
+QED 0.16115804522648372
+hits : miss ratio -  10564  :  1920
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  10644  :  1940
+Iter:  89
+BA: -11.171454073366467
+LogP 9.704425084745756
+Hydration -7.35259058717954
+TPSA 80.90898305084745
+QED 0.15583289610006446
+hits : miss ratio -  10775  :  1960
+Iter:  90
+BA: -11.787310497880847
+LogP 9.388818307692306
+Hydration -7.543734777890719
+TPSA 92.44215384615384
+QED 0.14181738096575688
+Iter:  91
+BA: -11.458002127549591
+LogP 8.971451578947365
+Hydration -7.550476459034702
+TPSA 82.07543859649122
+QED 0.18692570952791596
+hits : miss ratio -  10926  :  1980
+Iter:  92
+BA: -11.22796141376568
+LogP 8.04549923076923
+Hydration -7.919182052979102
+TPSA 83.75211538461537
+QED 0.21067843594314903
+Iter:  93
+BA: -11.753652526820387
+LogP 8.807537586206895
+Hydration -7.746038453332309
+TPSA 92.19413793103449
+QED 0.17379005393766173
+hits : miss ratio -  11139  :  2000
+Iter:  94
+BA: -11.326881327931794
+LogP 8.96635111111111
+Hydration -7.34888861797474
+TPSA 81.3222222222222
+QED 0.19597751891092818
+hits : miss ratio -  11289  :  2020
+Iter:  95
+BA: -11.687104361572842
+LogP 9.920888867924523
+Hydration -7.434008274438246
+TPSA 86.84981132075471
+QED 0.1458376722319876
+hits : miss ratio -  11391  :  2040
+Did Not Complete because of could not convert string to float: 
+Iter:  96
+BA: -11.651287982036278
+LogP 9.39290727272727
+Hydration -7.8640244440598925
+TPSA 91.2469090909091
+QED 0.15402017853294878
+hits : miss ratio -  11475  :  2060
+Did Not Complete because of Explicit valence for atom # 4 O, 3, is greater than permitted
+Iter:  97
+BA: -11.255665095567057
+LogP 8.990848867924525
+Hydration -7.87216307981959
+TPSA 90.76150943396227
+QED 0.158871493536263
+hits : miss ratio -  11601  :  2080
+Did Not Complete because of could not convert string to float: 
+hits : miss ratio -  11653  :  2100
+Iter:  98
+BA: -11.720169681870189
+LogP 10.446704788732387
+Hydration -7.1978923703583195
+TPSA 82.2912676056338
+QED 0.1353613594428668
+hits : miss ratio -  11736  :  2120
+Iter:  99
+BA: -11.591096195666585
+LogP 9.873580161290318
+Hydration -7.167392782626614
+TPSA 82.86483870967739
+QED 0.15039507626553905
