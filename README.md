@@ -4,6 +4,8 @@ The discovery of potential therapeutic agents for life threatening diseases has 
 ![Pipeline](Images/enhanced_pipeline.png "Pipeline")
 
 This repository contains the code for optimization of the generator model using predictor machine learning models and docking calculations.
+
+
 Installation
 ------------
 [Install miniconda](https://docs.conda.io/en/latest/miniconda.html) and run the following command.
