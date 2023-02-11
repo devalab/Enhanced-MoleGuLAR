@@ -15,7 +15,11 @@ Installation
 Running Experiments
 --------------
 To run the experiments that use AutoDock, AutoDock-GPU will have to be installed from [here](https://github.com/ccsb-scripps/AutoDock-GPU).
-Mol2Vec must also be installed. The instructions for installation can be found [here](https://github.com/samoturk/mol2vec). The `gpr_pretrained.pkl` for the pipeline can be downloaded [here](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/karthik_viswanathan_research_iiit_ac_in/EZj4SkuSsc9Fqj41zUC84AYBbhXyhtGrPtW_dsvSNDDJQg?e=l4w9KA) and the `gpr_al_inducted.pkl` can be downloaded [here](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/karthik_viswanathan_research_iiit_ac_in/EQ4LkwsbvZxKjC6V0aVuh60BagYHgoyPFaEJYwS0MJnf6A?e=2a42dr).
+Mol2Vec must also be installed. The instructions for installation can be found [here](https://github.com/samoturk/mol2vec). Additionally, install gensim as follows:
+```
+pip install gensim==3.8.3
+```
+The `gpr_pretrained.pkl` for the pipeline can be downloaded [here](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/karthik_viswanathan_research_iiit_ac_in/EZj4SkuSsc9Fqj41zUC84AYBbhXyhtGrPtW_dsvSNDDJQg?e=l4w9KA) and the `gpr_al_inducted.pkl` can be downloaded [here](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/karthik_viswanathan_research_iiit_ac_in/EQ4LkwsbvZxKjC6V0aVuh60BagYHgoyPFaEJYwS0MJnf6A?e=2a42dr).
 
 After installing AutoDock-GPU, Open the `Optimizer` directory.
 
